@@ -1,0 +1,4 @@
+nickname    | Base Pokemon  | lv | evs (,)                      | ivs (,)                      | Ability    | Moves (,)
+Niggasaur   | Bulbasaur     | 50 |   0,   0,   0,   0,   0,   0 |   0,   0,   0,   0,   0,   0 | null       | null, null, null, null
+Chinmander  | Charmander    | 50 |   0,   0,   0,   0,   0,   0 |   0,   0,   0,   0,   0,   0 | null       | null, null, null, null
+Squirt      | Squirtle      | 50 |   0,   0,   0,   0,   0,   0 |   0,   0,   0,   0,   0,   0 | null       | null, null, null, null
